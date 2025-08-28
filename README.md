@@ -1,4 +1,4 @@
-# Text-Summarizer-Project
+# EXTRACTION TEXT SUMMARIZATION USING NLP TECHNIQUE
 
 ## Workflows
 
@@ -128,4 +128,6 @@ Email: somyajha993466@gmail.com
 
     ECR_REPOSITORY_NAME = simple-app
 
- # I have taken help from Krish Naik You Tube Channel.
+ #  INNOVATE INTERN " EXTRACTION TEXT SUMMARIZATION USING NLP TECHNQUE
+
+ # 8 WEEKS INTERNSHIP
